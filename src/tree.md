@@ -1,0 +1,11 @@
+- [readme](/index)
+- [简介](/intro)
+- [快速开始](/quick_start)
+- +约定
+    - [说明](/rule/index)
+    - [页面约定](/rule/page)
+    - [路由约定](/rule/route)
+    - [状态管理约定](/rule/state)
+    - [多语言约定](/rule/lang)
+- [权限控制](/auth)
+- [Mock数据模拟建议](/mock)
