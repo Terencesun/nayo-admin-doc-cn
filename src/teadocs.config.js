@@ -16,7 +16,7 @@ module.exports = {
         headHtml: "",
         footHtml: "",
         isMinify: true,
-        rootPath: "/"
+        rootPath: "/nayo-admin-doc-cn"
     },
     nav: {
         tree: "./tree"
