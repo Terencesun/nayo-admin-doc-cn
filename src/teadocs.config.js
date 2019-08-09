@@ -7,7 +7,7 @@ module.exports = {
         description: "Nayo Admin 中文文档",
         version: "1.0.0",
         dir: "./docs",
-        outDir: "./../build",
+        outDir: "./../docs",
         staticDir: "./../static"
     }, 
     theme: {
