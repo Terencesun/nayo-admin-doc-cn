@@ -3,7 +3,7 @@
 ## 后台管理系统前端解决方案
 
 
-[演示地址](http://www.bilibili.com)
+[演示地址](https://nayo-project.github.io/nayo-admin-demo/)
 
 ---
 v1.0.0

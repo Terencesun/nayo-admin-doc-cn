@@ -8,7 +8,7 @@ module.exports = {
         version: "1.0.0",
         dir: "./docs",
         outDir: "./../build",
-        staticDir: "./static"
+        staticDir: "./../static"
     }, 
     theme: {
         dir: "", 
